@@ -1,9 +1,9 @@
-<div align="center">
-  <p>
-  <img src="https://user-images.githubusercontent.com/67174666/179845078-7a573e02-9d15-4695-9420-484ea3a9c961.png"/>  
-  <h1>Slimy Dice</h1>  
+
+  <h1 align="center">Slimy Dice</h1> 
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/67174666/179934022-be9bedee-8ca0-4ed4-8ff3-40c22cb404be.png"/>   
   </p>
-</div>
+  
 
 ---
 
