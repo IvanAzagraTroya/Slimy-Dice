@@ -1,4 +1,7 @@
 
+  <p align="center">
+    <i>Repository in progress</i>
+  </p>
   <h1 align="center">Slimy Dice</h1> 
   <p align="center">
     <img src="https://user-images.githubusercontent.com/67174666/179934022-be9bedee-8ca0-4ed4-8ff3-40c22cb404be.png"/>   
