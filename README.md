@@ -19,7 +19,7 @@
 _Slimy Dice_ is a simple table-board game in which on each turn you'll have to roll the dice,
 for each time you roll the dice both dices will add movements to each of the slimes.
 Your slime can move in all directions but not diagonally, the same happens with the other slime.
-You'll have then to escape it's touch, since u'll have limited times the other slime can reach you before loosing the game. With the number of the dice you can move towards the cards that appear on each turn so you can use them before rolling the dice again, affecting the game with each of them (adding movements, more times you can be reached, etc...) but also affecting the other slime possitively or negatively so it would be nice to think well your decissions.
+You'll then have to escape from it, since u'll have limited times the other slime can reach you before loosing the game. With the number of the dice you can move towards the cards that'll spawn on the board so you can have some advantages, affecting the game with each card(adding movements, more lifes, etc...) but also affecting the other slime possitively or negatively so it would be nice to think well your decissions.
 
 This game has been made in 48 hours, so there are some features that are yet to be implemented as that was the initial plan for the game. So maybe there could be also some improvements for it, as the camera it's not ideal and it would be nicer with a little more detail on the terrain.
 
